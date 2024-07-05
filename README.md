@@ -23,7 +23,7 @@ Welcome to the React Job Search Application! This project is a fully functional 
 
 ## Demo
 
-Check out the live demo: [Job Search App](http://localhost:4174/)
+Check out the live demo: [Job Search App](http://localhost:4173/)
 
 ## Technologies Used
 
