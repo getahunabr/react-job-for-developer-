@@ -41,7 +41,7 @@ Check out the live demo: [Job Search App](http://localhost:4174/)
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-job-search-app.git
+   git clone https://github.com/getahunabr/react-job-for-developer-.git
    cd react-job-search-app
    ```
 
